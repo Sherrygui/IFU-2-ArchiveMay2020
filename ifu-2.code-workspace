@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"vetur.format.options.tabSize": 4,
+		"vetur.format.defaultFormatter.html": "prettier",
+		"files.eol": "\n",
+		"files.insertFinalNewline": true,
+		"editor.formatOnSave": true,
+		"i18n-ally.localesPaths": "lang",
+		"prettier.tabWidth": 4,
+		"prettier.trailingComma": "all",
+		"i18n-ally.keystyle": "nested",
+		"i18n-ally.displayLanguage": "zh",
+		"i18n-ally.indent": 4
+	}
+}
